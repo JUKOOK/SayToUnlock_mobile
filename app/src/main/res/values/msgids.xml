@@ -1,0 +1,10 @@
+<resources>
+    <!-- Messages IDs for Handler-->
+    <item name="clientInactive" type="id" />
+    <item name="clientReady" type="id" />
+    <item name="audioRecording" type="id" />
+    <item name="partialResult" type="id" />
+    <item name="finalResult" type="id" />
+    <item name="recognitionError" type="id" />
+    <item name="endPointDetectTypeSelected" type="id" />
+</resources>
